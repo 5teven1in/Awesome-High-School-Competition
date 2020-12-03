@@ -1,4 +1,4 @@
-# Awesome-high-school-competition
+# Awesome High School Competition
 
 ## 演算法
 
@@ -9,6 +9,8 @@ APCS 為 Advanced Placement Computer Science 的英文縮寫，是指「大學�
 https://apcs.csie.ntnu.edu.tw/
 
 ### 邁向 IOI 系列
+
+![](TOI流程_20200827.fw.png)
 
 1. 校內賽 (參考學校公告)
 2. 分區賽 (各區競賽選拔)
