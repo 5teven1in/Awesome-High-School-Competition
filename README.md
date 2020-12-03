@@ -1,0 +1,1 @@
+# Awesome-high-school-competition
