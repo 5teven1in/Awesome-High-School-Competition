@@ -1,19 +1,31 @@
 # Awesome High School Competition
 
-* [演算法](#演算法)
-   * [APCS](#apcs)
-   * [邁向 IOI 系列](#邁向-ioi-系列)
-   * [TOI 線上練習賽](#toi-線上練習賽)
-   * [ITSA 線上程式設計競賽](#itsa-線上程式設計競賽)
-   * [NPSC 網際網路程式設計全國大賽](#npsc-網際網路程式設計全國大賽)
-* [資訊安全](#資訊安全)
-   * [MyFirstCTF](#myfirstctf)
-   * [AIS3 新型態資安實務主題課程](#ais3-新型態資安實務主題課程)
-   * [AIS3 EOF CTF](#ais3-eof-ctf)
-   * [資安系列競賽 - 資安技能金盾獎競賽](#資安系列競賽-資安技能金盾獎競賽)
-* [資訊相關](#資訊相關)
-   * [Bebras 國際運算思維挑戰賽](#bebras-國際運算思維挑戰賽)
-   * [資訊月資訊應用技能競賽](#資訊月資訊應用技能競賽)
+各種高中生的資訊競賽列表
+
+**如要新增競賽資訊或是討論請至 [issues](https://github.com/ss8651twtw/Awesome-High-School-Competition/issues)**
+
+<!-- TOC -->
+
+- [Awesome High School Competition](#awesome-high-school-competition)
+    - [演算法](#%E6%BC%94%E7%AE%97%E6%B3%95)
+        - [APCS](#apcs)
+        - [邁向 IOI 系列](#%E9%82%81%E5%90%91-ioi-%E7%B3%BB%E5%88%97)
+        - [TOI 線上練習賽](#toi-%E7%B7%9A%E4%B8%8A%E7%B7%B4%E7%BF%92%E8%B3%BD)
+        - [ITSA 線上程式設計競賽](#itsa-%E7%B7%9A%E4%B8%8A%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD)
+        - [NPSC 網際網路程式設計全國大賽](#npsc-%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E5%85%A8%E5%9C%8B%E5%A4%A7%E8%B3%BD)
+        - [ytp 少年圖靈計畫](#ytp-%E5%B0%91%E5%B9%B4%E5%9C%96%E9%9D%88%E8%A8%88%E7%95%AB)
+        - [HPE/HPI CodeWars](#hpehpi-codewars)
+        - [青年程式設計競賽 International School Software Competition ISSC](#%E9%9D%92%E5%B9%B4%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E7%AB%B6%E8%B3%BD-international-school-software-competition-issc)
+    - [資訊安全](#%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8)
+        - [MyFirstCTF](#myfirstctf)
+        - [AIS3 新型態資安實務主題課程](#ais3-%E6%96%B0%E5%9E%8B%E6%85%8B%E8%B3%87%E5%AE%89%E5%AF%A6%E5%8B%99%E4%B8%BB%E9%A1%8C%E8%AA%B2%E7%A8%8B)
+        - [AIS3 EOF CTF](#ais3-eof-ctf)
+        - [資安系列競賽 - 資安技能金盾獎競賽](#%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD---%E8%B3%87%E5%AE%89%E6%8A%80%E8%83%BD%E9%87%91%E7%9B%BE%E7%8D%8E%E7%AB%B6%E8%B3%BD)
+    - [資訊相關](#%E8%B3%87%E8%A8%8A%E7%9B%B8%E9%97%9C)
+        - [Bebras 國際運算思維挑戰賽](#bebras-%E5%9C%8B%E9%9A%9B%E9%81%8B%E7%AE%97%E6%80%9D%E7%B6%AD%E6%8C%91%E6%88%B0%E8%B3%BD)
+        - [資訊月資訊應用技能競賽](#%E8%B3%87%E8%A8%8A%E6%9C%88%E8%B3%87%E8%A8%8A%E6%87%89%E7%94%A8%E6%8A%80%E8%83%BD%E7%AB%B6%E8%B3%BD)
+
+<!-- /TOC -->
 
 ## 演算法
 
@@ -73,6 +85,28 @@ https://sites.google.com/site/itsancku/
 ※ 註：自學者每組最多錄取 3 隊進決賽，主辦單位保留錄取權利。
 
 https://contest.cc.ntu.edu.tw/
+
+### ytp 少年圖靈計畫
+
+凡曾經在政府單位或學術機構主辦的資訊競賽獲得名次，或由學校老師具名推薦，都可以組隊上網註冊活動報名，經資格審查後，參加在暑假舉辦的「程式挑戰營」。
+
+通過「程式挑戰營」考驗，表現優異的同學可以拿到競賽獎金、獎學金以及出國參訪新創企業或大學的機會！
+
+Are you ready? 「ytp 少年圖靈計畫」等你來挑戰！！
+
+http://www.tw-ytp.com/activity/
+
+### HPE/HPI CodeWars
+
+HPE/HPI CodeWars 是惠普科技股份有限公司專為學生們量身訂製的一個有深度、有廣度、一流的電腦程式設計比賽。
+
+https://hpcodewars.com.tw/
+
+### 青年程式設計競賽 International School Software Competition (ISSC)
+
+中華民國電腦學會為提升我國高中及高職資訊教育品質，和青年學生之程式設計能力為主要目標，並以程式設計選拔優秀高中與高職青年學生，代表我國參加每年國際學生程式設計競賽（International Schools Software Competition, ISSC），作為提升高中高職學生參與程式設計比賽，積極投入提升高中職資訊教育水準，以我國高中職資訊人才的培育為目標。
+
+https://issc.csroc.org.tw/
 
 ## 資訊安全
 
